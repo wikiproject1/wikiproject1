@@ -43,7 +43,7 @@ $ cat about.txt
 
 <p>
   <img src="https://img.shields.io/badge/Cursor-AI-111?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/AI-Engineering-000?style=for-the-badge" />
+  <img src="![Antigravity](https://img.shields.io/badge/Antigravity-AI%20Engineering-black?style=for-the-badge&logo=githubcopilot&logoColor=white)" />
 </p>
 
 ---
