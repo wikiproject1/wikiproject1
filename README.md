@@ -1,4 +1,4 @@
-# 👨‍💻 Alvin Dulle
+# 👨‍💻 Alvin Dulle  
 
 ```bash
 > whoami
@@ -18,32 +18,31 @@ Web Systems • AI Integration • Open Source • Real-World Solutions
 ```bash
 $ cat about.txt
 - ICT Student @ Moshi Cooperative University
-- Director @ Kilimanjaro Technology Solution & Innovation - https://www.kilimanjarotechsolution.com/
+- Director @ Kilimanjaro Technology Solution & Innovation
+- https://www.kilimanjarotechsolution.com/
 - Builder of scalable web systems
 - Currently developing: WikiTrust Index (AI-powered Wikipedia analysis)
 ```
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack  
 
-### 💻 Languages
-
+### 💻 Languages  
 <p>
   <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql" />
 </p>
 
-### 🧩 Frameworks & Tools
-
+### 🧩 Frameworks & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nodejs,git,github" />
 </p>
 
-### 🤖 AI & Dev Environment
-
+### 🤖 AI & Dev Environment  
 <p>
-  <img src="https://img.shields.io/badge/Cursor-AI-111?style=for-the-badge&logo=visualstudiocode" />
-  <img src="![Antigravity](https://img.shields.io/badge/Antigravity-AI%20Engineering-black?style=for-the-badge&logo=githubcopilot&logoColor=white)" />
+  <img src="https://img.shields.io/badge/Cursor-AI-111?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-AI%20Engineering-black?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-AI-black?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -63,19 +62,20 @@ $ status
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wikiproject1&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wikiproject1&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikiproject1&layout=compact&theme=tokyonight"/>
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wikiproject1&theme=tokyonight" />
+<p align="center">
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=wikiproject1&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect  
 
 ```bash
 $ contact --info
@@ -85,7 +85,7 @@ github: https://github.com/wikiproject1
 
 ---
 
-## 🚀 Vision
+## 🚀 Vision  
 
 ```bash
 > build --future
