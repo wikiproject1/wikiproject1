@@ -1,4 +1,14 @@
-# 👨‍💻 Alvin Dulle  
+<!-- 🔥 HEADER / BANNER -->
+<h1 align="center">👨‍💻 Alvin Dulle</h1>
+<h3 align="center">Full Stack Developer | AI Builder | Open Source Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Real-World+Systems;AI+%7C+Web+Development+%7C+Open+Source;Kilimanjaro+🌍+Tanzania" />
+</p>
+
+---
+
+## 🧠 Developer Terminal
 
 ```bash
 > whoami
@@ -13,33 +23,33 @@ Web Systems • AI Integration • Open Source • Real-World Solutions
 
 ---
 
-## 🧠 About Me
+## ⚡ About Me
 
 ```bash
 $ cat about.txt
 - ICT Student @ Moshi Cooperative University
 - Director @ Kilimanjaro Technology Solution & Innovation
 - https://www.kilimanjarotechsolution.com/
-- Builder of scalable web systems
-- Currently developing: WikiTrust Index (AI-powered Wikipedia analysis)
+- Builder of scalable systems
+- Developing: WikiTrust Index (AI-powered Wikipedia analysis)
 ```
 
 ---
 
-## ⚙️ Tech Stack  
+## 🛠️ Tech Stack
 
-### 💻 Languages  
-<p>
+### 💻 Languages
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql" />
 </p>
 
-### 🧩 Frameworks & Tools  
-<p>
+### ⚙️ Frameworks & Tools
+<p align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nodejs,git,github" />
 </p>
 
-### 🤖 AI & Dev Environment  
-<p>
+### 🤖 AI & Dev Tools
+<p align="center">
   <img src="https://img.shields.io/badge/Cursor-AI-111?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Antigravity-AI%20Engineering-black?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-AI-black?style=for-the-badge&logo=openai&logoColor=white" />
@@ -47,7 +57,7 @@ $ cat about.txt
 
 ---
 
-## 📂 Projects (Terminal View)
+## 📂 Projects (Terminal Style)
 
 ```bash
 $ ls projects/
@@ -62,7 +72,7 @@ $ status
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wikiproject1&show_icons=true&theme=tokyonight"/>
@@ -75,7 +85,15 @@ $ status
 
 ---
 
-## 🌐 Connect  
+## 🐍 Contribution Animation
+
+<p align="center">
+  <img src="https://github.com/wikiproject1/wikiproject1/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect
 
 ```bash
 $ contact --info
@@ -85,7 +103,7 @@ github: https://github.com/wikiproject1
 
 ---
 
-## 🚀 Vision  
+## 🚀 Vision
 
 ```bash
 > build --future
